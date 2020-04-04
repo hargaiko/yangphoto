@@ -1,6 +1,9 @@
+body {
+  text-align: center;
+}
+
 h1 {
   color: blue;  
   background-color:#A4A4A4;
-  width: 420px;
   font-size: 80px;
 }
